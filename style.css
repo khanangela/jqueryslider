@@ -1,0 +1,20 @@
+.content-box-lg {
+    padding: 120px 0;
+}
+.slider {
+    margin: 8px;
+    position: relative;
+}
+
+.owl-theme .owl-nav [class*=owl-] {
+    color: #212226;
+    font-size: 40px;
+    background: none;
+    margin: 0;
+}
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+    background: none;
+    color: #212226;
+}
+
